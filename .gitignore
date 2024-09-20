@@ -1,0 +1,38 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite3
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+*.sqlite3
+*.env
+*venv
+*.egg-info/
+.eggs/
+dist/
+build/
+staticfiles/
+media/
+*.mo
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db

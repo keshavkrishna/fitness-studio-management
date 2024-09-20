@@ -10,6 +10,7 @@ The project follows a layered architecture with the following components:
 3. **Services**: the actual business logic is incapsluted here, its uses appropriate Serializers to validate data and constraints
 4. **Serializers**: Validating data and constraints
 4. **Models**: Representing database structure
+   
 Additionally there are enums.py  defining various enumeration typesand constants used throughout the project and a utils.py file contains utility functions that provide common functionalities.
 ### Key Components
 #### Models
